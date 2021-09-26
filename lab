@@ -55,7 +55,7 @@ gcloud compute instance-templates create nginx-template \
 gcloud compute target-pools create nginx-pool
 
 This command will ask you the location where you want to create the target pool. If it’s not us-east1, type “n”.
-Select the number corresponding to us-east1 in the list. In my case it was 19. Type 19 and hit Enter.
+Select the number corresponding to us-east1 in the list. In my case it was 23. Type 23 and hit Enter.
 
 3. Creating a managed instance group:
 
